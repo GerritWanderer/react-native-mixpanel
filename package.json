@@ -1,0 +1,24 @@
+{
+  "name": "react-native-mixpanel",
+  "version": "0.0.1",
+  "description": "A react-native wrapper for the iOS mixpanel module",
+  "main": "mixpanel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerritWanderer/react-native-mixpanel.git"
+  },
+  "keywords": [
+    "react-native",
+    "mixpanel",
+    "analytics"
+  ],
+  "author": "Gerrit Wanderer <gerrit.wanderer@gmail.com> (http://gerritwanderer.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerritWanderer/react-native-mixpanel/issues"
+  },
+  "homepage": "https://github.com/GerritWanderer/react-native-mixpanel#readme"
+}
